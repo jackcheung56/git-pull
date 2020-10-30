@@ -25,7 +25,7 @@ When you cloned your fork of the lesson repo, a "link" to the git remote was aut
 $ git remote -v
 ```
 
-Note that by convention, the remote that points to the GitHub repo it was cloned from is named **origin**.a
+Note that by convention, the remote that points to the GitHub repo it was cloned from is named **origin**.
 
 However, in order to get the updates that the instructors push to the lesson repo, you will need to create another remote that points to the lesson repo that you forked:
 ```sh
